@@ -12,6 +12,6 @@ Makes use of the following dependencies.
 * EnTT
 * cute_c2
 
-A playable build is available in released. Please read the README.txt included with the build for controls and other notes.
+A playable build is available in releases. Please read the README.txt included with the build for controls and other notes.
 
 No art assets are included in this repo.
